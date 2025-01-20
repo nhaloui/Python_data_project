@@ -19,12 +19,22 @@ This project focuses on analyzing trends, skills, and salaries in the job market
 5. **5_Optimal_Skills.ipynb**  
    Identification of the most valuable skill combinations to maximize job opportunities and salaries.
 
+## Skills and Tools Used
+
+Throughout this project, the following skills and tools were applied:
+
+- **Data Cleaning**: Handling missing values, standardizing formats, and ensuring dataset quality using `pandas` and `numpy`.
+- **Data Analysis**: Identifying trends, correlations, and actionable insights through exploratory data analysis (EDA).
+- **Data Visualization**: Creating insightful plots and graphs using `matplotlib` and `seaborn`.
+- **Python Programming**: Writing efficient and reusable code for data manipulation and visualization.
+- **Jupyter Notebook**: Organizing code, analysis, and visualizations in an interactive and shareable environment.
+
 ## Requirements
 
 To run the project, you need:
 - Python 3.7 or higher
 - Jupyter Notebook
-- Required libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, and others specified in each notebook
+- Required libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`
 
 ## Features
 
